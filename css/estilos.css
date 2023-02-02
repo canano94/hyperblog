@@ -3,10 +3,29 @@ body
     color: #333;
     text-align: left;
     font-family: "Arial";
-    font-size: 18px;
+    font-size: 16px;
     margin: 0;
     padding: 0;
 }
+
+#cabecera
+
+{
+    background: rgb(126, 126, 135);
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.75);
+    color: red;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+   font-weight: normal;
+   font-size: 0.8em; 
+}
+
 #contenedor
 {
     width: 70%;
@@ -19,4 +38,9 @@ body
 #contenedor h1
 {
     font-size: 20px;
+}
+
+#post
+{
+
 }
