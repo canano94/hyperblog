@@ -2,13 +2,11 @@ body
 {
     color: #333;
     text-align: left;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-<<<<<<< HEAD
-=======
 
 #cabecera
 
@@ -28,7 +26,6 @@ body
    font-size: 0.8em; 
 }
 
->>>>>>> cabecera
 #contenedor
 {
     width: 70%;
