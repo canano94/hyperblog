@@ -1,6 +1,22 @@
 body
 {
-    color: cornflowerblue;
-    text-align: center;
+    color: #333;
+    text-align: left;
     font-family: "Arial";
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+#contenedor
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgb(13, 185, 185);
+    margin: 0 auto;
+}
+
+#contenedor h1
+{
+    font-size: 20px;
 }
