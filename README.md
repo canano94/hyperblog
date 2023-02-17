@@ -6,3 +6,4 @@ Un blog para el curso de plazo
 
 ##En este curso aprenderemos mucho
 >Git es una excelente herramienta para poder coloborar entre todos en diferentes proyectos
+>Creado por el increible Platzi Team.
