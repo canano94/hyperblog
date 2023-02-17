@@ -8,3 +8,4 @@ Un blog para el curso de plazo
 >Git es una excelente herramienta para poder coloborar entre todos en diferentes proyectos
 >Creado por el increible Platzi Team.
 >Incluye ejemplo de Windows, Linux y Mac
+>Disponible para todas las edades
